@@ -1,0 +1,3 @@
+Final Test Accuracy: 90.73%
+Total Epochs: 30
+Final Val Accuracy: 90.80%
