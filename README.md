@@ -64,7 +64,7 @@ No external deep learning library is used. Every operation — matrix multiplica
 
 ---
 Screenshot
-![image]([images/screenshot.png](https://github.com/Ramaraju2005/mnist-nn-scratch/blob/main/results/epochs20.png))
+![images/screenshot.png](https://github.com/Ramaraju2005/mnist-nn-scratch/blob/main/results/epochs20.png))
 
 ## How to run
 
